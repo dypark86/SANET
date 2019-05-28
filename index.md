@@ -9,5 +9,5 @@ Arbitrary style transfer aims to synthesize a content image with the style of an
 ## Paper
 [Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
 ## Contact
-email: likebullet86@gmail.com
+email: likebullet86@gmail.com <br>
 github: https://github.com/dypark86/SANET
