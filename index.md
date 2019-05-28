@@ -17,19 +17,19 @@ But you can reproduce results using these resources.
 <ol>
   <li>Paper</li>
   <ul>
-    <li>https://arxiv.org/abs/1812.02342</li>
+    <li><a href="https://arxiv.org/abs/1812.02342">https://arxiv.org/abs/1812.02342</a></li>
   </ul>
   <li>Adain Implement</li>
   <ul>
-    <li>https://github.com/naoto0804/pytorch-AdaIN</li>
+    <li><a href="https://github.com/naoto0804/pytorch-AdaIN">https://github.com/naoto0804/pytorch-AdaIN</a></li>
   </ul>
   <li>non local block self attn class</li>
   <ul>
-    <li>https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py</li>
+    <li><a href="https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py">https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py</a></li>
   </ul>
   <li>implement issue</li>
   <ul>
-    <li>https://github.com/dypark86/SANET/issues/1</li>
+    <li><a href="https://github.com/dypark86/SANET/issues/1">https://github.com/dypark86/SANET/issues/1</a></li>
   </ul>
 </ol>
 
