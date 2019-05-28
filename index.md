@@ -15,7 +15,7 @@ Arbitrary style transfer aims to synthesize a content image with the style of an
 There is no plan to open source code.<br>
 But you can reproduce results using these resources.
 - Paper<br>
-  : .[Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
+  : [Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
 - Adain Implement<br>
   : https://github.com/naoto0804/pytorch-AdaIN
 - non local block self attn class<br>
