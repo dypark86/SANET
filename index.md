@@ -14,10 +14,14 @@ Arbitrary style transfer aims to synthesize a content image with the style of an
 ## Implement
 There is no plan to open source code.<br>
 But you can reproduce results using these resources.
-- Paper: Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
-- Adain Implement: https://github.com/naoto0804/pytorch-AdaIN
-- non local block self attn class: https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py
-- implement issue: https://github.com/dypark86/SANET/issues/1
+- Paper
+  : Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
+- Adain Implement
+  : https://github.com/naoto0804/pytorch-AdaIN
+- non local block self attn class
+  : https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py
+- implement issue
+  : https://github.com/dypark86/SANET/issues/1
 
 ## Contact
 [Dae Young Park](mailto:likebullet86@gmail.com) <br>
