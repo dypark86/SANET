@@ -22,4 +22,4 @@ But you can reproduce results using these resources.
 ## Contact
 [Dae Young Park](mailto:likebullet86@gmail.com) <br>
 [Kwang Hee Lee](mailto:lkwanghee@gmail.com) <br>
-github: [https://github.com/dypark86/SANET](https://github.com/dypark86/SANET)
+[github](https://github.com/dypark86/SANET)
