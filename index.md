@@ -1,7 +1,7 @@
 ## Demo
 Recommend Chrome Browser with 1920*1080<br>
-[Original Paper Version Demo](style.airi.kr/ori_demo)<br>
-[Fine Tuning Version Demo](style.airi.kr/demo)
+[Original Paper Version Demo Site](style.airi.kr/ori_demo)<br>
+[Fine Tuning Version Demo Site](style.airi.kr/demo)
 ## Paper
 [Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
 ## Abstract
