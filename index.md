@@ -1,6 +1,6 @@
 ## Demo
-[Original Paper Version Demo Site](http://style.airi.kr/ori_demo)<br>
-[Fine Tuning Version Demo Site](http://style.airi.kr/demo)
+[CVPR 2019 Version Demo Site](http://style.airi.kr/ori_demo)<br>
+[Improved Version Demo Site](http://style.airi.kr/demo)
 
 ## Sample Images
 ![ex_screenshot](./images/head.jpg)
