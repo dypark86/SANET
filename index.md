@@ -14,7 +14,6 @@ But you can reproduce results using these resources.
 - Adain Implement: https://github.com/naoto0804/pytorch-AdaIN
 - non local block self attn class: https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py
 - implement issue: https://github.com/dypark86/SANET/issues/1
-
 ## Contact
 email: [author](mailto:likebullet86@gmail.com) <br>
 github: [https://github.com/dypark86/SANET](https://github.com/dypark86/SANET)
