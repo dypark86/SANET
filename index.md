@@ -11,6 +11,11 @@ Arbitrary style transfer aims to synthesize a content image with the style of an
 ## Paper
 [Arbitrary Style Transfer with Style-Attentional Networks Paper](https://arxiv.org/abs/1812.02342)
 
+## modify 
+page4 3.3 full system
+The weighting parameters are simply setasλc= 1,λs= 3,λidentity1= 1, andλidentity2= 50 in our experiments.
+-> The weighting parameters are simply setasλc= 1,λs= 3,λidentity1= 50, andλidentity2= 1 in our experiments.
+
 ## Implement
 There is no plan to open source code.<br>
 But you can reproduce results using these resources.
