@@ -14,8 +14,8 @@ Arbitrary style transfer aims to synthesize a content image with the style of an
 ## modify 
 page4 <br>
 3.3 full system <br>
-The weighting parameters are simply setasλc= 1,λs= 3,λidentity1= 1, andλidentity2= 50 in our experiments. <br>
--> The weighting parameters are simply setasλc= 1,λs= 3,λidentity1= 50, andλidentity2= 1 in our experiments.
+The weighting parameters are simply set as λc= 1,λs= 3, λidentity1=1, and λidentity2=50 in our experiments. <br>
+-> The weighting parameters are simply set as λc= 1,λs= 3, λidentity1=50, and λidentity2=1 in our experiments.
 
 ## Implement
 There is no plan to open source code.<br>
