@@ -35,7 +35,7 @@ But you can reproduce results using these resources or implemetation from GlebBr
   </ul>
   <li>implement from GlebBrykin</li>
   <ul>
-    <li><a href="https://github.com/GlebBrykin/SANET"</a></li>
+    <li><a href="https://github.com/GlebBrykin/SANET">https://github.com/GlebBrykin/SANET</a></li>
   </ul>
 </ol>
 
