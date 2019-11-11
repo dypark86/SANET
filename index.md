@@ -17,9 +17,9 @@ page4 <br>
 The weighting parameters are simply set as λc= 1,λs= 3, λidentity1=1, and λidentity2=50 in our experiments. <br>
 -> The weighting parameters are simply set as λc= 1,λs= 3, λidentity1=50, and λidentity2=1 in our experiments.
 
-## Implement
+## Implementation
 There is no plan to open source code.<br>
-But you can reproduce results using these resources.
+But you can reproduce results using these resources or implemetation from GlebBrykin
 <ol>
   <li>Paper</li>
   <ul>
@@ -33,9 +33,9 @@ But you can reproduce results using these resources.
   <ul>
     <li><a href="https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py">https://github.com/heykeetae/Self-Attention-GAN/blob/master/sagan_models.py</a></li>
   </ul>
-  <li>implement issue</li>
+  <li>implement from GlebBrykin</li>
   <ul>
-    <li><a href="https://github.com/dypark86/SANET/issues/1">https://github.com/dypark86/SANET/issues/1</a></li>
+    <li><a href="https://github.com/GlebBrykin/SANET"</a></li>
   </ul>
 </ol>
 
